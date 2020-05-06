@@ -8,7 +8,7 @@
 
 ##### PISA dataset from https://www.oecd.org/pisa/data/
 
-## File explananation
+## File Explanation
 - The main analysis file is PISA_Data_exploration.ipynb
 - The final visualization file is PISA_slide.slides.html (you can download it to see the results in slides.)
 
